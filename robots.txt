@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarb3ndra.github.io/dad-pf-v1/sitemap.xml
